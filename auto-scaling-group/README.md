@@ -1,8 +1,6 @@
 # AWS Auto Scaling Group (ASG) Terraform module with multi instance policy to create an ASG with Spot instances
 
-Terraform module which creates Auto Scaling resources on AWS.
-
-These types of resources are supported:
+Terraform module which creates Auto Scaling resources on AWS using mixed instance types.
 
 
 ## Usage
